@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Привет, я Михаил
 
-<!--
-**kujilit/kujilit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python-разработчик  
+🏢 DNS Технологии, Владивосток  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 О работе
+
+- Разрабатываю Python-сервисы и внутренние инструменты  
+- Работаю с данными и аналитическими хранилищами  
+- Делаю интерфейсы для данных и прототипов на Streamlit  
+
+---
+
+## 🛠️ Стек технологий
+
+**Основное**
+- Python  
+- PostgreSQL  
+- ClickHouse  
+
+**AI / Data**
+- ML / AI
+- Анализ и обработка данных  
+
+**Интерфейсы и сервисы**
+- Streamlit   
+
+**Инструменты**
+- Git  
+- Docker  
+- Linux  
+
+---
+
+## ⚔️ Codewars
+
+<p>
+  <!-- замени USERNAME на свой ник -->
+  <a href="https://www.codewars.com/users/Mike%20Litvin">
+    <img
+      src="https://www.codewars.com/users/Mike%20Litvin/badges/large"
+      alt="Codewars badge"
+    />
+  </a>
+</p>
+
+
+---
+
+## 📫 Контакты
+
+- GitHub: https://github.com/kujilit  
+- Codewars: https://www.codewars.com/users/Mike%20Litvin
+- Telegram: http://t.me/mikehasdone
